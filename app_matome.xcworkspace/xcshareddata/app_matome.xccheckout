@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D4FF23C3-A191-446D-BF55-8AE45E6C0D8A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>app_matome</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE1A22D6444076972769FCFA037B686F21582838</key>
+		<string>github.com:kaz3439/app_matome.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>app_matome.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE1A22D6444076972769FCFA037B686F21582838</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:kaz3439/app_matome.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE1A22D6444076972769FCFA037B686F21582838</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE1A22D6444076972769FCFA037B686F21582838</string>
+			<key>IDESourceControlWCCName</key>
+			<string>app_matome</string>
+		</dict>
+	</array>
+</dict>
+</plist>
